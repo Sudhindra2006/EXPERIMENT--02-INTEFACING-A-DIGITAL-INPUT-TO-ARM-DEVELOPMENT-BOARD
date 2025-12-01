@@ -158,7 +158,10 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 
 ## Output  :
- <img width="1090" height="758" alt="image" src="https://github.com/user-attachments/assets/5ecd3d56-9877-4db9-9318-81aaef89c7c4" />
+![exp-2 on](https://github.com/user-attachments/assets/b9dea81e-ba66-45e7-97b4-d35193cf4a9f)
+
+![exp-2 off](https://github.com/user-attachments/assets/32170a3e-dc8a-47af-8a12-bd87a066f06b)
+
 
 ## layout of the circuit:
  
